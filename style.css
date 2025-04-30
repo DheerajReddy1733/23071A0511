@@ -1,0 +1,17 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+.card {
+    padding: 10px;
+    border-radius: 10px;
+}
+button {
+    border-radius: 5px;
+}
+.shadow-sm {
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+.shadow {
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);
+}
